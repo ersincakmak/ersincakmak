@@ -4,6 +4,10 @@
 
 I am a Front End Developer working with ReactJS, who graduated from Sakarya University Computer Engineering in the summer of 2021.
 
+## Current Condition
+
+Participant of [Patika](https://www.linkedin.com/company/patikadev/) & [Pazarama](https://www.linkedin.com/company/pazarama/) React Bootcamp
+
 ## Reach out to me in LinkedIn
 
 [<img width="35" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" align="left" />](https://www.linkedin.com/in/cakmakersin/)
