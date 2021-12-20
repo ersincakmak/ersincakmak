@@ -8,9 +8,11 @@ I am a Front End Developer working with ReactJS, who graduated from Sakarya Univ
 
 Participant of [Patika](https://www.linkedin.com/company/patikadev/) & [Pazarama](https://www.linkedin.com/company/pazarama/) React Bootcamp
 
-## Reach out to me in LinkedIn
+## Reach out to me
 
-[<img width="35" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" align="left" />](https://www.linkedin.com/in/cakmakersin/)
+[<img width="35" title="LinkedIn" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" align="left" />](https://www.linkedin.com/in/cakmakersin/)
+[<img width="35" title="HackerRank" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" align="left" />](https://www.hackerrank.com/ckmrsn/)
+
 
 <br/>
 <br/>
