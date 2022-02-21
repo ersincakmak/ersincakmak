@@ -6,7 +6,7 @@ I am a Front End Developer working with ReactJS, who graduated from Sakarya Univ
 
 ## Current Condition
 
-Participant of [Patika](https://www.linkedin.com/company/patikadev/) & [Pazarama](https://www.linkedin.com/company/pazarama/) React Bootcamp
+Freelancer & Searching for a regular(remote) job
 
 ## Reach out to me
 
