@@ -6,7 +6,7 @@ I am a Front End Developer working with ReactJS, who graduated from Sakarya Univ
 
 ## Current Condition
 
-Freelancer & Searching for a regular (remote) job
+Freelancer & Looking for a regular (remote) job
 
 ## Reach out to me
 
