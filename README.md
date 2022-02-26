@@ -25,6 +25,8 @@ Freelancer & Looking for a regular (remote) job
 <img align="left" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" title="Tailwind" width="35">
 <img align="left" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4" title="Redux" width="35">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="Sass" width="35">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" title="Graphql" width="35">
+
 <!--
 **ersincakmak/ersincakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
