@@ -6,7 +6,8 @@ I am a Front End Developer working with ReactJS, who graduated from Sakarya Univ
 
 ## Current Condition
 
-Front End Developer Innovance Consultancy
+- Front End Developer Innovance Consultancy
+- Learning Swift
 
 ## Reach out to me
 
